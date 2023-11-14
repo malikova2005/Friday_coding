@@ -1,0 +1,27 @@
+{
+  "name": "friday-live-coding",
+  "version": "1.0.0",
+  "description": "Friday Live Coding",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch src/sass/style.scss src/sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikova2005/friday-live-coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikova2005/friday-live-coding/issues"
+  },
+  "homepage": "https://github.com/malikova2005/friday-live-coding#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1",
+    "webpack": "^4.42.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  }
+}
